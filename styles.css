@@ -30,7 +30,9 @@
 .right{
 	text-align:right;
 }
-
+.middle{
+	ailgn:center;
+}
 #table-2{
 	border:1px solid black;
 		border-collapse:collpase;
